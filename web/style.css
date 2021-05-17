@@ -1,0 +1,16 @@
+/* 
+    Created on : Dec 2, 2019, 11:58:08 PM
+    Author     : Marcel
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Rajdhani&display=swap');
+
+.head {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 45px;
+}
+
+.content {
+    font-size: 1em;
+}
+
