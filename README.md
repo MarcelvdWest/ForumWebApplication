@@ -8,6 +8,6 @@
 4)	Change the URL of the .mdf and .ldf file to the location where you would like your database to be created before executing the query.
 5)	Open the ForumWebApplication file in NetBeans and deploy it using Apache Server. Make sure to change the username and password for the database
 
-Sample Login: \br
-login: marcel@gmail.com \br
+Sample Login: <\br>
+login: marcel@gmail.com <\br>
 password: 12345
